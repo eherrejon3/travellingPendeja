@@ -1,8 +1,8 @@
-const version = '20240506231158';
+const version = '20240603085824';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2018/08/22/hello-world/","/about/","/categories/","/blog/","/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","https://lh3.googleusercontent.com/pw/AMWts8DGUrxy7nXQrgBGSbfEYvZesEJ_PbUtlY69WVSjCUkObkgRinIh4cdV_9xwEIusVbqMM1wXbvgrfAM8HExaXIp-9fXiVeeRmQjqjbk_wWTouOCBf3_tyXvvvhBylFmqRGn8aa9evJcQR_mH205MRjY=w100-h100-s-no", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/general/2018/08/22/hello-world/","/about/","/categories/","/blog/","/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/blog/images/nepal_logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

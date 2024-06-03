@@ -35,6 +35,7 @@ This is my travel blog. I write here about places I visit, to share with friends
     ```
 * [Build local version of site](https://jekyllrb.com/docs/):
     ```
+    cd development/nepal_blog/travellingPendeja
     bundle exec jekyll serve
     ```
     * click on **server address** on terminal

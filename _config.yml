@@ -23,10 +23,10 @@ plugins:
 # Site settings
 url: 'https://www.nisargathenature.com/'
 baseurl: ''
-title: 'NisargaTheNature'
+title: 'theElizabethDiaries'
 description: 'a travel blog with lots of photography'
 permalink: pretty
-logo: "https://lh3.googleusercontent.com/pw/AMWts8DGUrxy7nXQrgBGSbfEYvZesEJ_PbUtlY69WVSjCUkObkgRinIh4cdV_9xwEIusVbqMM1wXbvgrfAM8HExaXIp-9fXiVeeRmQjqjbk_wWTouOCBf3_tyXvvvhBylFmqRGn8aa9evJcQR_mH205MRjY=w100-h100-s-no" 
+logo: "blog/images/nepal_logo.png" 
 
 # Pagination
 paginate: 5
