@@ -16,13 +16,6 @@
   
   
   {
-    "title": "About this website",
-    "excerpt": "\n",
-    "content": "This is a travel blog with lots of photography.\n",
-    "url": "/about/"
-  },
-  
-  {
     "title": "Categories",
     "excerpt": "Category index\n",
     "content": "\n",
@@ -41,6 +34,13 @@
     "excerpt": "\n",
     "content": "\n",
     "url": "/"
+  },
+  
+  {
+    "title": "Photo Collections",
+    "excerpt": "\n",
+    "content": "\nKathmandu 5/30/2024\n\n\n\nView from outside Hotel Encounter.\n\n\n\n\n\n\nMonkey Temple \n\n\nRotating Prayers. If you spin one, you get the prayers blessing.\n\n\n\n\n\nDragon Statue in front of Buddha Statue.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "url": "/photos/"
   }
   
 ]
